@@ -1,1 +1,1 @@
-# MDA5013_SHAUN_TAN_YAN_TAT_25119033_Assignment-2.2
+Repository for MDA5013 assignment 2.2
